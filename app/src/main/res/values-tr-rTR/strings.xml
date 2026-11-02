@@ -220,4 +220,6 @@
     <string name="xml_editor_storage">"Depolama alanından"</string>
     <string name="xml_editor_text">"Manuel olarak yazarak"</string>
     <string name="xml_modify_title">"Değeri şununla değiştir"</string>
+    <string name="delete_selected">"Seçilenleri sil"</string>
+    <string name="share_question">"%s paylaşılsın mı?"</string>
 </resources>

@@ -2,4 +2,45 @@
 <resources>
     <color name="colorDark">#121212</color>
     <color name="colorWhite">#FFFFFF</color>
+
+    <!-- Brand palette (Material 3, blue seed) — light -->
+    <color name="brand_primary">#415F91</color>
+    <color name="brand_onPrimary">#FFFFFF</color>
+    <color name="brand_primaryContainer">#D6E3FF</color>
+    <color name="brand_onPrimaryContainer">#001B3E</color>
+    <color name="brand_inversePrimary">#AAC7FF</color>
+
+    <color name="brand_secondary">#565F71</color>
+    <color name="brand_onSecondary">#FFFFFF</color>
+    <color name="brand_secondaryContainer">#DAE2F9</color>
+    <color name="brand_onSecondaryContainer">#131C2B</color>
+
+    <color name="brand_tertiary">#705575</color>
+    <color name="brand_onTertiary">#FFFFFF</color>
+    <color name="brand_tertiaryContainer">#FAD8FD</color>
+    <color name="brand_onTertiaryContainer">#28132E</color>
+
+    <color name="brand_error">#BA1A1A</color>
+    <color name="brand_onError">#FFFFFF</color>
+    <color name="brand_errorContainer">#FFDAD6</color>
+    <color name="brand_onErrorContainer">#410002</color>
+
+    <color name="brand_background">#F9F9FF</color>
+    <color name="brand_onBackground">#191C20</color>
+    <color name="brand_surface">#F9F9FF</color>
+    <color name="brand_onSurface">#191C20</color>
+    <color name="brand_surfaceVariant">#E0E2EC</color>
+    <color name="brand_onSurfaceVariant">#44474E</color>
+    <color name="brand_inverseSurface">#2E3036</color>
+    <color name="brand_inverseOnSurface">#F0F0F7</color>
+    <color name="brand_outline">#74777F</color>
+    <color name="brand_outlineVariant">#C4C6D0</color>
+
+    <color name="brand_surfaceDim">#D9D9E0</color>
+    <color name="brand_surfaceBright">#F9F9FF</color>
+    <color name="brand_surfaceContainerLowest">#FFFFFF</color>
+    <color name="brand_surfaceContainerLow">#F3F3FA</color>
+    <color name="brand_surfaceContainer">#EDEDF4</color>
+    <color name="brand_surfaceContainerHigh">#E7E8EE</color>
+    <color name="brand_surfaceContainerHighest">#E2E2E9</color>
 </resources>
